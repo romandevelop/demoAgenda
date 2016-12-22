@@ -1,0 +1,2 @@
+# proyectoMinera
+proyecto de gestión
